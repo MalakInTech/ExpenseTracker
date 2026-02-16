@@ -72,3 +72,12 @@ I have built this project to practice:
    - Email: [el.malak.etu@gmail.com](mailto:el.malak.etu@gmail.com)
    - GitHub: [https://github.com/MalakInTech](https://github.com/MalakInTech)
 
+`
+---
+
+## 🎥 Demo Video
+
+https://github.com/user-attachments/assets/be76ce31-49c0-444e-9934-0c50ddf7f4ee
+
+
+
